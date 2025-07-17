@@ -10,4 +10,4 @@ You can just simply execute **Engine.exe**.
 You can **grab** and **throw** the ball by clicking and dragging it.
 
 # Additional Information
-For detailed information, check out **Engine.pdf** and full code in **Engine.py**.
+For detailed information, check out **Engine.pdf** and for full code, check out **Engine.py**.
